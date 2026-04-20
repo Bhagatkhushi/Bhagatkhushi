@@ -14,11 +14,22 @@ Email Me 👉 ✉️ **bhagatkhushi08@gmail.com** For Collaboration/Project or A
 
 # 🚀 Featured Projects
 
-🌱 IoT Greenhouse Monitoring System
-→ Monitors temperature, humidity & soil moisture using Arduino
+🌡️ Temperature & Humidity Monitoring System
+→ Arduino Nano + DHT11 based real-time monitoring system
+→ Displays temperature (°C) and humidity (%) on LCD
+→ Uses embedded systems and sensor interfacing
+
+🌱 Smart Environment Monitoring System
+→ Built using Arduino, DHT11, Soil Moisture Sensor & LDR
+→ Monitors temperature, humidity, soil moisture and light intensity
+→ Automatically controls devices like fan, water pump, and light
+→ Displays real-time data on LCD and Serial Monitor
 
 📱 Mobile Directory Management System
-→ Python-based application for managing contacts
+→ Developed using Python for efficient contact management
+→ Allows users to add, search, update, and delete contact details
+→ Implements file handling for data storage and retrieval
+→ User-friendly command-line interface for easy interaction
 
 # 🌐 Socials:
 
