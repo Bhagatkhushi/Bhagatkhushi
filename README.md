@@ -26,7 +26,7 @@ Email Me 👉 ✉️ **bhagatkhushi08@gmail.com** For Collaboration/Project or A
 
 # 💻 Tech Stack:
 
-- Programming: C, Python
+- Programming: C, C++, Python
 
 - Libraries: NumPy, Pandas, Matplotlib
 
