@@ -14,9 +14,9 @@ Email Me 👉 ✉️ **bhagatkhushi08@gmail.com** For Collaboration/Project or A
 
 # 🛠️ Featured Projects
 
--🌡️ Temperature & Humidity Monitoring System
--🌱 Smart Environment Monitoring System
--📱 Mobile Directory Management System
+- 🌡️ Temperature & Humidity Monitoring System
+- 🌱 Smart Environment Monitoring System
+- 📱 Mobile Directory Management System
 
 
 # 🌐 Socials:
