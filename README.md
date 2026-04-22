@@ -15,22 +15,9 @@ Email Me 👉 ✉️ **bhagatkhushi08@gmail.com** For Collaboration/Project or A
 # 🛠️ Featured Projects
 
 🌡️ Temperature & Humidity Monitoring System
-- Arduino Nano + DHT11 based real-time monitoring system
-- Displays temperature (°C) and humidity (%) on LCD
-- Uses embedded systems and sensor interfacing
-
 🌱 Smart Environment Monitoring System
-- Built using Arduino, DHT11, Soil Moisture Sensor & LDR
-- Monitors temperature, humidity, soil moisture and light intensity
-- Automatically controls devices like fan, water pump, and light
-- Displays real-time data on LCD and Serial Monitor
-
 📱 Mobile Directory Management System
-- Python-based application for managing contact details efficiently
-- Supports operations like add, search, update, and delete contacts
-- Uses file handling to store and retrieve data persistently
-- Simple and user-friendly interface for seamless user interaction
-- Helps in organizing and accessing contact information quickly
+
 
 # 🌐 Socials:
 
