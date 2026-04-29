@@ -15,6 +15,7 @@ Email Me 👉 ✉️ **bhagatkhushi08@gmail.com** For Collaboration/Project or A
 # 🛠️ Featured Projects
 
 - 📱 Mobile Directory Management System
+- 🤖 Design and Implementation of a Robot Arm using Arduino Nano
 - 🌡️ Temperature & Humidity Monitoring System
 - 🌱 Smart Environment Monitoring System
 
