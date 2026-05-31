@@ -12,10 +12,16 @@ Email Me 👉 ✉️ **bhagatkhushi08@gmail.com** For Collaboration/Project or A
 - 😄 **Pronouns:** She/her
 - ⚡ **Fun fact:** I love coding and turning ideas into real projects 🚀
 
-# 🛠️ Featured Projects
+## 🛠 Featured Projects
+
+- 📊 ApexPlanet Data Analytics Internship Portfolio
+
+- 🐍 Oasis Infobyte Python Programming Internship
+
+- 🤖 Design and Implementation of a Robot Arm using Arduino Nano
 
 - 📱 Mobile Directory Management System
-- 🤖 Design and Implementation of a Robot Arm using Arduino Nano
+
 - 🌡️ Temperature & Humidity Monitoring System
 
 # 🌐 Socials:
