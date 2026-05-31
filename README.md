@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **bhagatkhushi08@gmail.com** For Collaboration/Project or A
 
 # 🚀 About Me
 - 🔭 **I’m currently working on:** Python Projects
-- 🌱 **I’m currently learning:** Data Science and Machine Learning using Python
+- 🌱 **I’m currently learning:** Data Analytics and python development
 - 👯 **I’m looking to collaborate on:** Beginner-friendly Python projects and open-source contributions
 - 🤔 **I’m looking for help with:** Improving my coding skills and real-world project development
 - 💬 **Ask me about:** Python, basic projects, and GitHub
@@ -17,7 +17,6 @@ Email Me 👉 ✉️ **bhagatkhushi08@gmail.com** For Collaboration/Project or A
 - 📱 Mobile Directory Management System
 - 🤖 Design and Implementation of a Robot Arm using Arduino Nano
 - 🌡️ Temperature & Humidity Monitoring System
-- 🌱 Smart Environment Monitoring System
 
 # 🌐 Socials:
 
@@ -27,7 +26,8 @@ Email Me 👉 ✉️ **bhagatkhushi08@gmail.com** For Collaboration/Project or A
 
 - Programming: C, C++, Python
 
-- Libraries: NumPy, Pandas, Matplotlib
+- Data Analytics: Pandas, Numpy, Matplotlib, Data cleaning, Data Visulization
 
-- Tools & Platforms: Arduino, GitHub
+- Tools & Platforms: Arduino, GitHub, Vs Code
 
+- Core Skills: Data Analysis, Python Programming, Problem-Solving
