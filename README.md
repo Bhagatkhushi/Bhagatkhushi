@@ -5,7 +5,7 @@ Email Me 👉 ✉️ **bhagatkhushi08@gmail.com** For Collaboration/Project or A
 
 # 🚀 About Me
 - 🔭 **I’m currently working on:** Python Projects
-- 🌱 **I’m currently learning:** Data Analytics and python development
+- 🌱 **I’m currently learning:** Full Stack Web Development, Data Analytics and Advanced Python
 - 👯 **I’m looking to collaborate on:** Beginner-friendly Python projects and open-source contributions
 - 🤔 **I’m looking for help with:** Improving my coding skills and real-world project development
 - 💬 **Ask me about:** Python, basic projects, and GitHub
@@ -14,15 +14,19 @@ Email Me 👉 ✉️ **bhagatkhushi08@gmail.com** For Collaboration/Project or A
 
 ## 🛠 Featured Projects
 
-- 📊 ApexPlanet Data Analytics Internship Portfolio
+## 🛠 Featured Projects
 
-- 🐍 Oasis Infobyte Python Programming Internship
+- 📋 **Smart Task Manager** – Flask & SQLite based task management application with authentication, priority management, dark mode, and CSV/PDF export.
 
-- 🤖 Design and Implementation of a Robot Arm using Arduino Nano
+- 📚 **Book Web Scraper** – Python web scraping project using BeautifulSoup to extract book titles, prices, ratings, and export data to CSV.
 
-- 📱 Mobile Directory Management System
+- 📊 **Data Analytics Internship Portfolio** – Collection of EDA, data visualization, business insights, and Power BI dashboard projects completed during internship.
 
-- 🌡️ Temperature & Humidity Monitoring System
+- 📱 **Mobile Directory Management System** – Python-based contact management system with CRUD operations and file handling.
+
+- 🤖 **Robot Arm Automation** – Arduino Nano based robotic arm controlled using joystick and servo motors for object manipulation.
+
+  - 🌱 **Smart Environment Monitoring System** – IoT project for monitoring temperature, humidity, soil moisture, and automatic device control using Arduino.
 
 # 🌐 Socials:
 
@@ -32,8 +36,12 @@ Email Me 👉 ✉️ **bhagatkhushi08@gmail.com** For Collaboration/Project or A
 
 - Programming: C, C++, Python
 
+- Frameworks: Flask
+
+- Database: SQLite
+
 - Data Analytics: Pandas, Numpy, Matplotlib, Data cleaning, Data Visulization
 
-- Tools & Platforms: Arduino, GitHub, Vs Code
+- Tools & Platforms: Git, GitHub, VS Code, Arduino IDE
 
 - Core Skills: Data Analysis, Python Programming, Problem-Solving
