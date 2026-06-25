@@ -24,7 +24,7 @@ Email Me 👉 ✉️ **bhagatkhushi08@gmail.com** For Collaboration/Project or A
 
 - 🤖 **Robot Arm Automation** – Arduino Nano based robotic arm controlled using joystick and servo motors for object manipulation.
 
-  - 🌱 **Smart Environment Monitoring System** – IoT project for monitoring temperature, humidity, soil moisture, and automatic device control using Arduino.
+- 🌱 **Smart Environment Monitoring System** – IoT project for monitoring temperature, humidity, soil moisture, and automatic device control using Arduino.
 
 # 🌐 Socials:
 
