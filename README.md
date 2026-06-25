@@ -14,13 +14,11 @@ Email Me 👉 ✉️ **bhagatkhushi08@gmail.com** For Collaboration/Project or A
 
 ## 🛠 Featured Projects
 
-## 🛠 Featured Projects
-
 - 📋 **Smart Task Manager** – Flask & SQLite based task management application with authentication, priority management, dark mode, and CSV/PDF export.
 
-- 📚 **Book Web Scraper** – Python web scraping project using BeautifulSoup to extract book titles, prices, ratings, and export data to CSV.
-
 - 📊 **Data Analytics Internship Portfolio** – Collection of EDA, data visualization, business insights, and Power BI dashboard projects completed during internship.
+
+- 📚 **Book Web Scraper** – Python web scraping project using BeautifulSoup to extract book titles, prices, ratings, and export data to CSV.
 
 - 📱 **Mobile Directory Management System** – Python-based contact management system with CRUD operations and file handling.
 
