@@ -4,21 +4,20 @@
 Email Me 👉 ✉️ **bhagatkhushi08@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 # 🚀 About Me
-- 🔭 **I’m currently working on:** Python Projects
-- 🌱 **I’m currently learning:** Full Stack Web Development, Data Analytics and Advanced Python
-- 👯 **I’m looking to collaborate on:** Beginner-friendly Python projects and open-source contributions
-- 🤔 **I’m looking for help with:** Improving my coding skills and real-world project development
-- 💬 **Ask me about:** Python, basic projects, and GitHub
-- 😄 **Pronouns:** She/her
-- ⚡ **Fun fact:** I love coding and turning ideas into real projects 🚀
+- 🔭 Currently working on Machine Learning & Full-Stack Python Projects
+- 🌱 Currently learning Flask, PostgreSQL, Supabase, Machine Learning and Data Analytics
+- 💼 Interested in Python Developer, Data Analyst and Software Development roles
+- 🤝 Open to Internships, Open Source and Collaboration
+- 💬 Ask me about Python, Flask, GitHub, Machine Learning, Data Analytics and IoT
+- ⚡ Fun fact: I enjoy turning ideas into real-world applications.
 
 ## 🛠 Featured Projects
+
+- ⭐ **Twitter Sentiment Analysis** – Machine Learning + Flask + TF-IDF + Naive Bayes
 
 - 📋 **Smart Task Manager** – Flask & SQLite based task management application with authentication, priority management, dark mode, and CSV/PDF export.
 
 - 📊 **Data Analytics Internship Portfolio** – Collection of EDA, data visualization, business insights, and Power BI dashboard projects completed during internship.
-
-- 📚 **Book Web Scraper** – Python web scraping project using BeautifulSoup to extract book titles, prices, ratings, and export data to CSV.
 
 - 📱 **Mobile Directory Management System** – Python-based contact management system with CRUD operations and file handling.
 
@@ -32,11 +31,11 @@ Email Me 👉 ✉️ **bhagatkhushi08@gmail.com** For Collaboration/Project or A
 
 # 💻 Tech Stack:
 
-- Programming: C, C++, Python
+- Programming: C, C++, Python, SQL
 
 - Frameworks: Flask
 
-- Database: SQLite
+- Database: SQLite, PostgreSQL, Supabase
 
 - Data Analytics: Pandas, Numpy, Matplotlib, Data cleaning, Data Visulization
 
